@@ -1,0 +1,9 @@
+您好 @FULLNAME@！
+您在 @DOKUWIKIURL@ 对 @TITLE@ 所做的修改
+
+URL: @URL@
+
+已被审核通过.
+
+-- 
+此邮件由 @DOKUWIKIURL@ 上的 DokuWiki 自动生成

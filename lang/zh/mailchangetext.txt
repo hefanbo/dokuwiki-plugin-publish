@@ -1,0 +1,18 @@
+在您的 DokuWiki 上有一个新的修改建议如下：
+
+日期：@DATE@
+浏览器：@BROWSER@
+IP 地址：@IPADDRESS@
+主机名：@HOSTNAME@
+@APRPRE@版本：@OLDPAGE@
+新版本：@NEWPAGE@
+修改摘要：@SUMMARY@
+用户：@USER@
+
+@DIFF@
+
+
+请查看修改并审核 @NEWPAGE@，或者向 @USER@ 反馈。
+
+-- 
+此邮件由 @DOKUWIKIURL@ 上的 DokuWiki 自动生成
